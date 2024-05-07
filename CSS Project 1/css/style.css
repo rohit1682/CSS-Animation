@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.bar-section{
+    margin-top:320px;
+}
+.bar1{
+    height: 20px;
+    width: 10px;
+    margin-top:15px;
+    background-color: red;
+
+    
+    animation-name: Bar1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+.bar2{
+    height: 20px;
+    width: 10px;
+    margin-top:15px;
+    animation-name: Bar2;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    background-color:yellow;
+}
+.bar3{
+    height: 20px;
+    width: 10px;
+    margin-top:15px;
+    animation-name: Bar3;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    background-color:blue;
+}
+.bar4{
+    height: 20px;
+    width: 10px;
+    margin-top:15px;
+    animation-name: Bar4;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    background-color:pink;
+}
+.bar5{
+    height: 20px;
+    width: 10px;
+    margin-top:15px;
+    animation-name: Bar5;
+    animation-duration:12s;
+    animation-iteration-count: infinite;
+    background-color:cyan;
+}
+@keyframes Bar1{
+    0%{
+        width: 30px;
+    }
+    10%{
+        width: 60px;
+    }
+    20%{
+        width: 90px;
+    }
+    30%{
+        width: 120px;
+    }
+    40%{
+        width: 150px;
+    }
+    50%{
+        width: 180px;
+    }
+    60%{
+        width: 210px;
+    }
+    70%{
+        width: 240px;
+    }
+    80%{
+        width: 270px;
+    }
+    90%{
+        width: 300px;
+    }
+    100%{
+        width: 400px;
+    }
+}
+@keyframes Bar2{
+    0%{
+        width: 30px;
+    }
+    10%{
+        width: 60px;
+    }
+    20%{
+        width: 90px;
+    }
+    30%{
+        width: 120px;
+    }
+    40%{
+        width: 150px;
+    }
+    50%{
+        width: 180px;
+    }
+    60%{
+        width: 210px;
+    }
+    70%{
+        width: 240px;
+    }
+    80%{
+        width: 270px;
+    }
+    90%{
+        width: 300px;
+    }
+    100%{
+        width: 400px;
+    }
+}
+@keyframes Bar3{
+    0%{
+        width: 30px;
+    }
+    10%{
+        width: 60px;
+    }
+    20%{
+        width: 90px;
+    }
+    30%{
+        width: 120px;
+    }
+    40%{
+        width: 150px;
+    }
+    50%{
+        width: 180px;
+    }
+    60%{
+        width: 210px;
+    }
+    70%{
+        width: 240px;
+    }
+    80%{
+        width: 270px;
+    }
+    90%{
+        width: 300px;
+    }
+    100%{
+        width: 400px;
+    }
+}
+@keyframes Bar4{
+    0%{
+        width: 30px;
+    }
+    10%{
+        width: 60px;
+    }
+    20%{
+        width: 90px;
+    }
+    30%{
+        width: 120px;
+    }
+    40%{
+        width: 150px;
+    }
+    50%{
+        width: 180px;
+    }
+    60%{
+        width: 210px;
+    }
+    70%{
+        width: 240px;
+    }
+    80%{
+        width: 270px;
+    }
+    90%{
+        width: 300px;
+    }
+    100%{
+        width: 400px;
+    }
+}
+@keyframes Bar5{
+    0%{
+        width: 30px;
+    }
+    10%{
+        width: 60px;
+    }
+    20%{
+        width: 90px;
+    }
+    30%{
+        width: 120px;
+    }
+    40%{
+        width: 150px;
+    }
+    50%{
+        width: 180px;
+    }
+    60%{
+        width: 210px;
+    }
+    70%{
+        width: 240px;
+    }
+    80%{
+        width: 270px;
+    }
+    90%{
+        width: 300px;
+    }
+    100%{
+        width: 400px;
+    }
+}
